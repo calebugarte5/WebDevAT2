@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family:  Arial;
+    font-size: 3vh;
+    font-weight: normal;
+ }
+
+ h1 {
+    color: dark blue;
+    font-size: 5vh;
+    font-weight: bold;
+    text-align: center;
+ }
+ h2 {
+    color: dark blue;
+    font-size: 4vh;
+    font-weight: bold;
+    padding-left: 1vw;
+    padding-top: 2vw;
+ }
+ p { 
+    padding-left: 2vw;
+    padding-top: 1vw;
+ }
+ a {
+    
+    color: dark blue;
+ }
+ figure {
+
+    figcaption {
+        font-size: 2vh;
+        
+    }
+    img {
+        width: 20vw;
+        
+    }
+    h4 {
+        font-size: 1vh;
+        
+    }
+    p {
+        font-size: 1vh;
+        
+    }
+ }
