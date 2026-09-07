@@ -45,3 +45,32 @@ body {
         
     }
  }
+  .flex-container {
+      display: flex;
+ }
+ head {
+   flex: 8vh;
+   background-color: #fff;
+   color: #000;
+   border: 1px solid #000;
+ }
+ nav {
+   flex: 6vh;
+   padding-left: 10px;
+   color:#000;
+   border: 1px solid #000;
+ }
+ aside {
+   
+   flex: 20vw;
+   background-color: #fff;
+   color:#000;
+   border: 1px solid #000;
+ }
+ main {
+   display: flex;
+   flex: 80vw;
+   background-color: #fff;
+   color:#000;
+   border: 1px solid #000;
+ }
