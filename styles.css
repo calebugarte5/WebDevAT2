@@ -103,3 +103,7 @@ a:hover {
     background-color: #f3f175; 
     transform: scale(1.02);   
 }
+.mining-video {
+    border-radius: 20px;
+    opacity: 0.5;
+}
